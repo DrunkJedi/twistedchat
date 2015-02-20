@@ -1,4 +1,4 @@
 twistedchat
 ===========
 
-blablabla
+Simple chat example
